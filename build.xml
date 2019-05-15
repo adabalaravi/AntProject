@@ -10,7 +10,7 @@
 		</fileset>
 	</path>
 	
-	<target name="initdf">
+	<target name="init">
 		<mkdir dir="build/classes"/>
 		<mkdir dir="dist" />
 	</target>
